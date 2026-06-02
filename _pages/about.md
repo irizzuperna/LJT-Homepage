@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
+I am a first-year PhD candidate at the **HKUST NLP Group** at the Hong Kong University of Science and Technology, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 My research focuses on **natural language processing** and **machine learning**, with specific interests in:
 - LLM Reasoning and Reinforcement Learning
@@ -16,26 +16,26 @@ My research focuses on **natural language processing** and **machine learning**,
 
 ## Education
 
-**Hong Kong University of Science and Technology (HKUST)**  
-Ph.D. in Computer Science, 2024 - Present  
-- Advisor: Prof. Junxian He
+### Hong Kong University of Science and Technology (HKUST)
+**Ph.D. in Computer Science** · 2024 - Present  
+- Advisor: Professor Junxian He
 - Member of HKUST NLP Group
 
-**Shanghai Jiao Tong University (SJTU)**  
-B.Eng., 2020 - 2024  
+### Shanghai Jiao Tong University (SJTU)
+**B.Eng.** · 2020 - 2024  
 - Zhiyuan Honor Scholarship recipient
-- Advisor: Prof. Junxian He
+- Advisor: Professor Junxian He
 
 ## Research Experience
 
-**Research Intern** @ MINIMAX  
+### Research Intern · MINIMAX
 *February 2025 - Present*
 
-**Research Intern** @ Tencent WXG  
+### Research Intern · Tencent WXG
 *June 2024 - September 2024*  
 - Advisor: Zifei Shan
 
-**Research Intern** @ Shanghai AI Lab  
+### Research Intern · Shanghai AI Lab
 *June 2023 - December 2023*  
 - Advisor: Prof. Yu Cheng
 
@@ -44,15 +44,15 @@ B.Eng., 2020 - 2024
 ### First Author
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
-   Junteng Liu*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
+   Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    *arXiv, 2025*
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
-   Junteng Liu*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
+   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
    *arXiv, 2025*
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
-   Junteng Liu*, Shiqi Chen, Yu Cheng, Junxian He  
+   Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He  
    *EMNLP 2024*
 
 ### Co-Author
@@ -69,17 +69,21 @@ B.Eng., 2020 - 2024
    Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He  
    *NeurIPS 2023*
 
-## Skills
+## Skills & Research Areas
 
-**Research Areas:** Natural Language Processing, Machine Learning, Large Language Models
+**Primary Research Areas:**
+- Natural Language Processing
+- Machine Learning
+- Large Language Models
 
-**Specific Topics:**
+**Research Topics:**
 - LLM Reasoning
-- Reinforcement Learning from Human Feedback
-- Hallucination Detection and Mitigation
-- Vision-Language Models
+- Reinforcement Learning
+- Vision-Language Models (VLM)
+- Hallucination in VLMs
+- LLM Truthfulness
 - Model Interpretability
-- Parameter-Efficient Fine-Tuning
+- Parameter-Efficient Modules
 
 ## Honors & Awards
 
